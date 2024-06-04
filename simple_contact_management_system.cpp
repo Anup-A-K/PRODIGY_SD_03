@@ -2,7 +2,6 @@
 #include <fstream>
 using namespace std;
 
-// create a structure to store contact information
 struct Contact
 {
     string name;
